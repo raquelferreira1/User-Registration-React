@@ -2,7 +2,7 @@
 
 ## 📝 Sobre
 
-Página para cadastro de usuários.
+Página onde é realizado o cadastro do usuário por nome e idade, listagem dos usuários cadastrados e botão para exclusão.
 
 ## 🚀 Tecnologias Utilizadas
 
