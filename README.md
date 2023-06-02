@@ -10,12 +10,6 @@ Página para cadastro de usuários.
 -   [Styled Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### 📌 Alguns Destaques
-
-- Responsivo para computador / celular;
-- Renderização
-- React Hook: Use Ref
-
 > Para ver o projeto on-line clique **[AQUI](https://users-eight.vercel.app/)**
 
 <br><br>
