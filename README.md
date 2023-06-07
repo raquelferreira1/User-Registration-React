@@ -2,19 +2,13 @@
 
 ## 📝 Sobre
 
-Página para cadastro de usuários.
+Página onde é realizado o cadastro do usuário por nome e idade, listagem dos usuários cadastrados e botão para deletar.
 
 ## 🚀 Tecnologias Utilizadas
 
 -   [React.JS](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 -   [Styled Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-### 📌 Alguns Destaques
-
-- Responsivo para computador / celular;
-- Renderização
-- React Hook: Use Ref
 
 > Para ver o projeto on-line clique **[AQUI](https://users-eight.vercel.app/)**
 
