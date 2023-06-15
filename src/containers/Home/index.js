@@ -1,11 +1,18 @@
 import React, { useState, useRef } from 'react'
-import People from '../assets/people.svg'
-import Arrow from '../assets/arrow.svg'
-import { Container, Image, ContainerItens, H1, InputLabel, Input, Button } from './styles';
+import { useHistory } from 'react-router-dom'
 import axios from 'axios'
+
+import People from '../../assets/people.svg'
+import Arrow from '../../assets/arrow.svg'
+import { Container, Image, InputLabel, Input } from './styles';
+import H1 from '../../components/Title'
+import ContainerItens from '../../components/ContainerItens'
+import Button from '../../components/Button'
 
 function App() {
   const [users, setUsers] = useState([]);
+  const history = useHistory();
+
   const inputName = useRef();
   const inputAge = useRef();
 
@@ -16,6 +23,8 @@ function App() {
     })
 
     setUsers([...users, newUser]);
+
+    history.push('/usuarios')
   }
 
   return (

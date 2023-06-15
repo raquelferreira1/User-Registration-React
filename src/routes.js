@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom/cjs/react-router-dom.min";
-import Home from './Home'
-import Users from './Users'
+import Home from './containers/Home'
+import Users from './containers/Users'
 
 function Routes() {
     return (
