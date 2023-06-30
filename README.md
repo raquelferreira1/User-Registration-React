@@ -1,4 +1,4 @@
-#  Cadastro de Usuários
+#  Cadastro de Usuários :busts_in_silhouette:
 
 ## 📝 Sobre
 
