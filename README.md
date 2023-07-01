@@ -10,6 +10,8 @@ Repositório Back-end: https://github.com/raquelferreira1/backend-users
 
 -   [React.JS](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
+-   [Node.JS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
 -   [Axios](https://axios-http.com/ptbr/docs/intro)
 
 -   [Styled Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
