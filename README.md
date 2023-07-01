@@ -4,12 +4,19 @@
 
 Página onde é realizado o cadastro do usuário por nome e idade, listagem dos usuários cadastrados e botão para deletar.
 
+Repositório Back-end: https://github.com/raquelferreira1/backend-users
+
 ## 🚀 Tecnologias Utilizadas
 
 -   [React.JS](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+
+-   [Axios](https://axios-http.com/ptbr/docs/intro)
+
 -   [Styled Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+  
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+<br>
 > Para ver o projeto on-line clique **[AQUI](https://users-eight.vercel.app/)**
 
 <br><br>
